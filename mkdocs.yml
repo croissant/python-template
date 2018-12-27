@@ -1,0 +1,5 @@
+---
+site_name: Python Project Template
+docs_dir: docs/src
+site_dir: docs/html
+theme: readthedocs
